@@ -52,8 +52,5 @@ It aims to organize the maintenance sector, empower workers, and support Egyptâ€
 
 ##  Author
 **Julia Nady Shehata Habeeb**  
- Cairo, Egypt  
- [Jolianady2@gmail.com](mailto:Jolianady2@gmail.com)  
- [LinkedIn](https://www.linkedin.com/in/julia-nady-401025287/) â€¢ [GitHub](https://github.com/julia-nadi)
-
+ 
 
