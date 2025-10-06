@@ -56,12 +56,4 @@ It aims to organize the maintenance sector, empower workers, and support Egypt�
  [Jolianady2@gmail.com](mailto:Jolianady2@gmail.com)  
  [LinkedIn](https://www.linkedin.com/in/julia-nady-401025287/) • [GitHub](https://github.com/julia-nadi)
 
----
-
-##  License
-This project is licensed under the **MIT License** – feel free to use and modify with attribution.
-
----
-
-> “Empowering workers, building trust, and shaping a sustainable digital future for Egypt.”
 
